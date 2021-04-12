@@ -1,1 +1,2 @@
-# React_landing_page_example1
+#### Code challenge taken from [Front end mentor](https://www.frontendmentor.io/).
+#### Used technologies: React.
