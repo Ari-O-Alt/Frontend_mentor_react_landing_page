@@ -1,0 +1,19 @@
+.linksListGeneral {
+  margin-bottom: 15px;
+  text-align: center;
+
+  & .list {
+    padding-left: 0;
+  }
+
+  & .listItem {
+    list-style: none;
+    margin-top: 5px;
+    font-weight: 400;
+  }
+  & .link {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+  }
+}

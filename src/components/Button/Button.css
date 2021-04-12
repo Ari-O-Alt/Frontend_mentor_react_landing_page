@@ -1,0 +1,21 @@
+.buttonGeneral {
+  border-radius: 15px;
+  width: 100px;
+  height: 35px;
+  border: none;
+  margin: 0 5px;
+}
+
+.buttonWhite {
+  background-color: #fff;
+  color: #ed7d6f;
+  font-weight: 600;
+}
+
+.buttonTransparent {
+  background-color: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+  font-weight: 600;
+}
+/*# sourceMappingURL=Button.css.map */

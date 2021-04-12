@@ -1,0 +1,22 @@
+.headerBackground {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#d5a79a), color-stop(#e29383), color-stop(#ed7d6f), color-stop(#f7625f), to(#ff3d54));
+  background-image: linear-gradient(to bottom, #d5a79a, #e29383, #ed7d6f, #f7625f, #ff3d54);
+  height: 400px;
+  border-bottom-left-radius: 40px;
+  color: #fff;
+}
+
+.logo {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+}
+
+.title {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+
+.subTitle {
+  font-weight: 300;
+}
+/*# sourceMappingURL=Header.css.map */
