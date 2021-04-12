@@ -1,7 +1,7 @@
 #### Code challenge taken from [Front end mentor](https://www.frontendmentor.io/).
 #### Used technologies: React.
 
-# ----------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
